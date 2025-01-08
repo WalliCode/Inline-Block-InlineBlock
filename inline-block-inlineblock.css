@@ -1,0 +1,6 @@
+.borda{
+    border: 1px solid red;
+    /*display: inline; mudei o comportamento do elemento block para inline*/
+    /*display: block; mudei o comportamento do elemento de inline para block*/
+    /*display: inline-block; Joga o conteúdo para baixo quando tem quebra de linha*/
+}
